@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+.expo/
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Gradle
+android/app/build/
+android/build/
+android/gradle/
+
+# Generated files
+*.ipa
+*.apk
+*.keystore
+
+# Logs
+logs/
+log.txt
+
+# Environment variables
+.env
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Dependency directories
+ios/Pods/
+android/.gradle/
